@@ -20,4 +20,5 @@ run the program
 ```
 node send_gmail.js
 ```
-badabing badaboom
+
+if any error occurs during login, you can refresh or page back to login manually and the program will continue once you have logged in
